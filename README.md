@@ -8,4 +8,4 @@ npm run start
 
 ### Demo
 
-https://vanillajs-todoapp.web.app/page/1
+https://kt-tsekh.web.app/
